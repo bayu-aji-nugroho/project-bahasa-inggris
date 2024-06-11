@@ -1,0 +1,13 @@
+Struktur data di database
+
+[["bahasa inggris","bahasa indonesia"]] = database1
+
+[["v1","v2","v3"]] = database2
+
+auto py to exe
+
+Tahapan update app
+1.pindahkan semua database
+2.update app
+3.kembalikan database ke tempat semula
+|harus urut!|
