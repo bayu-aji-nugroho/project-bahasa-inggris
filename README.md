@@ -1,2 +1,2 @@
-# project-bahasa-inggris
-program yang akan mengacak kosakata dan memberikannya kepada user untuk dijawab terjamahannya
+[Program Bersejarah] karna program ini literasi bahasa inggris di snbt 2024 saya 600+ 
+Kode sebelum AI booming di thn 2024
